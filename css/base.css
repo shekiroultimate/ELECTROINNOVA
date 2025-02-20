@@ -1,0 +1,19 @@
+
+.social-icons span {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 10px;
+  border-radius: 50%;
+  background: #333;
+  color: #fff;
+  text-align: center;
+}
+
+.social-icons .facebook { background: #3b5998; }
+.social-icons .twitter { background: #55acee; }
+.social-icons .youtube { background: #e52d27; }
+.social-icons .pinterest { background: #cc2127; }
+.social-icons .instagram { background: linear-gradient(35deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); }
+
+
+
